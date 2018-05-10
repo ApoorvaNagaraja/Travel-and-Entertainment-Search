@@ -7,4 +7,6 @@ places to and removing places from favorites list and posting place info to Twit
 
 Backend-Node.js
 Frontend - jQuery,HTML5,Bootstrap, JavaScript, AJAX 
-Responsive Design suitable for mobile
+Responsive Design suitable for mobile and desktops.
+
+Deployed on AWS 
