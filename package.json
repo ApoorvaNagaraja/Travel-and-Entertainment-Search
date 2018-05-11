@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "apoorva",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "latest",
+    "delay": "latest",
+    "express": "latest",
+    "install": "latest",
+    "system-sleep": "latest",
+    "yelp-fusion": "latest"
+  },
+    "scripts": {
+    "start" : "node app.js"
+  }
+}
